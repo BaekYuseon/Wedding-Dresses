@@ -312,7 +312,7 @@ a { text-decoration: none !important; }
         color: #9e9e9e;
     }
 
-    .footer_logo img {
+    .footer_logo {
         display: none;
     }
 
